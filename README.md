@@ -84,17 +84,13 @@ Output:
 Predicted Sentiment → Positive ✅
 ```
 ## 🔮 Future Improvements
-```
 Add more ML/DL models (Naive Bayes, LSTMs, Transformers).
 
 Support multi-class classification (positive, negative, neutral).
 
 Deploy on Streamlit Cloud / Heroku / AWS.
-```
 
 ## 👤 Author
-```
 Developed by [Padam Srishank]
-```
 
    
