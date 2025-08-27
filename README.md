@@ -25,3 +25,13 @@ Movie-Sentiment-Analysis/
 │── models/ # Stores trained model + vectorizer
 │── data/ # <-- (You need to add this manually before running)
 ```
+
+---
+
+## ⚙️ Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/Movie-Sentiment-Analysis.git
+   cd Movie-Sentiment-Analysis
+   ```
+   
